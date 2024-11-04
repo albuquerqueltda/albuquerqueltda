@@ -1,4 +1,4 @@
-- 👋 Olá! Bem-vindo ao meu perfil do GitHubHi, @albuquerqueltda
+- 👋 Olá! Bem-vindo ao meu perfil do GitHub @albuquerqueltda
 - 👨‍💻 Sou Victor Albuquerque, desenvolvedor(a) apaixonado(a) por linguagens HTML / MYSQL Banco de Dados. Com experiência em [breve resumo da área de atuação, como desenvolvimento web, ciência de dados, etc.], gosto de transformar ideias em projetos práticos e inovadores. 
 - 🎓 Formação: Graduando na Universidade São Miguel no curso de GTI - Gestao de Tecnologia da Informação.
 - 🌱 Atualmente, estou estudando/aprendendo GTI - Gestão de Tecnologia da Informação
