@@ -1,7 +1,7 @@
 - 👋 Olá! Bem-vindo ao meu perfil do GitHub @albuquerqueltda
 - 👨‍💻 Sou Victor Albuquerque, desenvolvedor(a) apaixonado(a) por linguagens. Com experiência em desenvolvimento web, ciência de dados, Front-end: HTML, CSS e etc... Gosto de transformar ideias em projetos práticos e inovadores. 
 - 🎓 Formação: Tecnologia da Informação.
-- 🌱 Atualmente, estou estudando/aprendendo GTI - Gestão de Tecnologia da Informação
+- 🌱 Atualmente, estou estudando GTI - Gestão de Tecnologia da Informação
 - 👯 Busco colaborar em projetos de criação de páginas de internet, tenho experiência sólida em front-end e back-end, incluindo HTML, CSS, JavaScript e frameworks como React e Vue.js para interfaces dinâmicas e responsivas.
 - 📫 Entre em contato: albuquerqueltda@hotmail.com
 
